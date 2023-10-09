@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Navbar() {
   return (
@@ -8,10 +8,10 @@ function Navbar() {
         <p id="logostories">Stories</p>
       </div>
       <div id="dropdown">
-        Explore Categories{' '}
+        Explore Categories{" "}
         <i
           className="fa-solid fa-angle-down"
-          style={{ color: '#000000', paddingLeft: '8px', paddingTop: '0' }}
+          style={{ color: "#000000", paddingLeft: "8px", paddingTop: "0" }}
         ></i>
       </div>
     </nav>
